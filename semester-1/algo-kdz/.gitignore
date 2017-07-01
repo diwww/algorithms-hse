@@ -1,0 +1,15 @@
+*.out
+*.gch
+CMakeLists.txt
+.idea
+cmake-build-debug
+*.pdf
+*.aux
+*.log
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.txt
+*.haff
+*.shan
+*.toc
