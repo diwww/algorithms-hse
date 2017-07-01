@@ -1,0 +1,12 @@
+add_executable(CyberPolice
+        JournalNetActivity.h
+        JournalNetActivity.hpp
+        NetActivity.cpp
+        NetActivity.h
+        OrderedList.h
+        OrderedList.hpp
+        SkipList.h
+        SkipList.hpp
+        TimeStamp.cpp
+        TimeStamp.h
+        main.cpp)

@@ -1,0 +1,1 @@
+add_executable(exe main.cpp parts.cpp parts.h)

@@ -1,0 +1,10 @@
+add_executable(PrinterDemo
+        event.cpp
+        event.h
+        job.cpp
+        job.h
+        main.cpp
+        simulator.cpp
+        simulator.h
+        fifo.cpp
+        fifo.h)

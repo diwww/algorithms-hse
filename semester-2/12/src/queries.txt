@@ -1,0 +1,13 @@
+whatis connecting_corridor
+whatis patient_room
+whatis small_rubber_washer
+whatis bathroom
+whatis floor
+howmany floor hospital
+howmany wing hospital
+howmany patient_room hospital
+howmany bed hospital
+howmany couch floor
+howmany couch hospital
+howmany couch couch
+howmany small_rubber_washer floor

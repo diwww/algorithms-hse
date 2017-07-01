@@ -1,0 +1,6 @@
+*.out
+*.gch
+CMakeLists.txt
+.idea
+Materials
+cmake-build-debug

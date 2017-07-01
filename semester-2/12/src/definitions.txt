@@ -1,0 +1,17 @@
+hospital 10 floor
+floor 4 wing
+wing 2 long_corridor
+wing 1 connecting_corridor
+long_corridor 21 patient_room
+connecting_corridor 5 supply_room
+patient_room 2 bed
+patient_room 4 outlet
+patient_room 1 bathroom
+outlet 1 face_plate
+outlet 2 socket
+bathroom 1 sink
+sink 2 small_rubber_washer
+sink 1 large_rubber_washer
+floor 1 central_lobby
+central_lobby 2 couch
+central_lobby 1 television
